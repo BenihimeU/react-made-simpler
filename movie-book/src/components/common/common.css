@@ -1,0 +1,22 @@
+.AppHeader {
+    background: black;
+    display: block;
+    text-align: center;
+    color: blanchedalmond;
+    padding: .3em;
+    margin: 0 auto;
+  }
+
+  .app-content{
+    display: block;
+  }
+  .child{
+    display: inline-block;
+    width: 50%;
+    vertical-align: text-top;
+    text-align: center;
+  }
+  .avatar{
+    width: 100px;
+    height: 150px;
+  }

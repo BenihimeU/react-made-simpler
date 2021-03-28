@@ -1,0 +1,13 @@
+.separator{
+    border-bottom: 1px solid gray;
+}
+.movie-item{
+    margin: 1em auto;
+}
+.avatar-style{
+    padding: 5px;
+}
+.movie-list-desc p{
+    margin-bottom: 0.2em;
+    font-size: small;
+}
